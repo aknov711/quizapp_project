@@ -23,7 +23,7 @@ const Header = (props) => {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="mr-auto" navbar>
             <NavItem style={{marginLeft:'1200px'}}>
-              <Link style={{color:'white',float:'right'}} to="/quiz">Want to Play Quiz Again?</Link>
+              <Link style={{color:'white',float:'right'}} to="/">Want to Play Quiz Again?</Link>
             </NavItem>
            
           </Nav>
